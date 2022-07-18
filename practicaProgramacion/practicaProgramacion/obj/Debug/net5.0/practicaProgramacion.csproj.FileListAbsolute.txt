@@ -1,0 +1,16 @@
+C:\Users\a875701\OneDrive - Atos\Desktop\Proyects\practicaProgramacion\practicaProgramacion\bin\Debug\net5.0\practicaProgramacion.exe
+C:\Users\a875701\OneDrive - Atos\Desktop\Proyects\practicaProgramacion\practicaProgramacion\bin\Debug\net5.0\practicaProgramacion.deps.json
+C:\Users\a875701\OneDrive - Atos\Desktop\Proyects\practicaProgramacion\practicaProgramacion\bin\Debug\net5.0\practicaProgramacion.runtimeconfig.json
+C:\Users\a875701\OneDrive - Atos\Desktop\Proyects\practicaProgramacion\practicaProgramacion\bin\Debug\net5.0\practicaProgramacion.runtimeconfig.dev.json
+C:\Users\a875701\OneDrive - Atos\Desktop\Proyects\practicaProgramacion\practicaProgramacion\bin\Debug\net5.0\practicaProgramacion.dll
+C:\Users\a875701\OneDrive - Atos\Desktop\Proyects\practicaProgramacion\practicaProgramacion\bin\Debug\net5.0\practicaProgramacion.pdb
+C:\Users\a875701\OneDrive - Atos\Desktop\Proyects\practicaProgramacion\practicaProgramacion\obj\Debug\net5.0\practicaProgramacion.csproj.AssemblyReference.cache
+C:\Users\a875701\OneDrive - Atos\Desktop\Proyects\practicaProgramacion\practicaProgramacion\obj\Debug\net5.0\practicaProgramacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a875701\OneDrive - Atos\Desktop\Proyects\practicaProgramacion\practicaProgramacion\obj\Debug\net5.0\practicaProgramacion.AssemblyInfoInputs.cache
+C:\Users\a875701\OneDrive - Atos\Desktop\Proyects\practicaProgramacion\practicaProgramacion\obj\Debug\net5.0\practicaProgramacion.AssemblyInfo.cs
+C:\Users\a875701\OneDrive - Atos\Desktop\Proyects\practicaProgramacion\practicaProgramacion\obj\Debug\net5.0\practicaProgramacion.csproj.CoreCompileInputs.cache
+C:\Users\a875701\OneDrive - Atos\Desktop\Proyects\practicaProgramacion\practicaProgramacion\obj\Debug\net5.0\practicaProgramacion.dll
+C:\Users\a875701\OneDrive - Atos\Desktop\Proyects\practicaProgramacion\practicaProgramacion\obj\Debug\net5.0\refint\practicaProgramacion.dll
+C:\Users\a875701\OneDrive - Atos\Desktop\Proyects\practicaProgramacion\practicaProgramacion\obj\Debug\net5.0\practicaProgramacion.pdb
+C:\Users\a875701\OneDrive - Atos\Desktop\Proyects\practicaProgramacion\practicaProgramacion\obj\Debug\net5.0\practicaProgramacion.genruntimeconfig.cache
+C:\Users\a875701\OneDrive - Atos\Desktop\Proyects\practicaProgramacion\practicaProgramacion\obj\Debug\net5.0\ref\practicaProgramacion.dll
