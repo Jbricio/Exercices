@@ -1,0 +1,8 @@
+C:\Users\a875701\OneDrive - Atos\Desktop\Proyects\PracticaProgramacionIntermedia1\PracticaProgramacionIntermedia1\bin\Debug\PracticaProgramacionIntermedia1.exe.config
+C:\Users\a875701\OneDrive - Atos\Desktop\Proyects\PracticaProgramacionIntermedia1\PracticaProgramacionIntermedia1\bin\Debug\PracticaProgramacionIntermedia1.exe
+C:\Users\a875701\OneDrive - Atos\Desktop\Proyects\PracticaProgramacionIntermedia1\PracticaProgramacionIntermedia1\bin\Debug\PracticaProgramacionIntermedia1.pdb
+C:\Users\a875701\OneDrive - Atos\Desktop\Proyects\PracticaProgramacionIntermedia1\PracticaProgramacionIntermedia1\obj\Debug\PracticaProgramacionIntermedia1.csproj.AssemblyReference.cache
+C:\Users\a875701\OneDrive - Atos\Desktop\Proyects\PracticaProgramacionIntermedia1\PracticaProgramacionIntermedia1\obj\Debug\PracticaProgramacionIntermedia1.csproj.SuggestedBindingRedirects.cache
+C:\Users\a875701\OneDrive - Atos\Desktop\Proyects\PracticaProgramacionIntermedia1\PracticaProgramacionIntermedia1\obj\Debug\PracticaProgramacionIntermedia1.csproj.CoreCompileInputs.cache
+C:\Users\a875701\OneDrive - Atos\Desktop\Proyects\PracticaProgramacionIntermedia1\PracticaProgramacionIntermedia1\obj\Debug\PracticaProgramacionIntermedia1.exe
+C:\Users\a875701\OneDrive - Atos\Desktop\Proyects\PracticaProgramacionIntermedia1\PracticaProgramacionIntermedia1\obj\Debug\PracticaProgramacionIntermedia1.pdb
