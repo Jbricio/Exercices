@@ -1,0 +1,8 @@
+C:\Users\a875701\OneDrive - Atos\Desktop\Proyects\ProgramacionIntermedia2\ProgramacionIntermedia2\bin\Debug\ProgramacionIntermedia2.exe.config
+C:\Users\a875701\OneDrive - Atos\Desktop\Proyects\ProgramacionIntermedia2\ProgramacionIntermedia2\bin\Debug\ProgramacionIntermedia2.exe
+C:\Users\a875701\OneDrive - Atos\Desktop\Proyects\ProgramacionIntermedia2\ProgramacionIntermedia2\bin\Debug\ProgramacionIntermedia2.pdb
+C:\Users\a875701\OneDrive - Atos\Desktop\Proyects\ProgramacionIntermedia2\ProgramacionIntermedia2\obj\Debug\ProgramacionIntermedia2.csproj.AssemblyReference.cache
+C:\Users\a875701\OneDrive - Atos\Desktop\Proyects\ProgramacionIntermedia2\ProgramacionIntermedia2\obj\Debug\ProgramacionIntermedia2.csproj.SuggestedBindingRedirects.cache
+C:\Users\a875701\OneDrive - Atos\Desktop\Proyects\ProgramacionIntermedia2\ProgramacionIntermedia2\obj\Debug\ProgramacionIntermedia2.csproj.CoreCompileInputs.cache
+C:\Users\a875701\OneDrive - Atos\Desktop\Proyects\ProgramacionIntermedia2\ProgramacionIntermedia2\obj\Debug\ProgramacionIntermedia2.exe
+C:\Users\a875701\OneDrive - Atos\Desktop\Proyects\ProgramacionIntermedia2\ProgramacionIntermedia2\obj\Debug\ProgramacionIntermedia2.pdb
