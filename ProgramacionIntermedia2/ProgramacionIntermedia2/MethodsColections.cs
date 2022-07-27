@@ -42,5 +42,15 @@ namespace ProgramacionIntermedia2
             }
             
         }
+        public static bool EvaluateIfIsPalindrome(string word)
+        {
+            string half1 = word.Substring(0, word.Length / 2);
+            char[] arr = word.ToCharArray();
+            Array.Reverse(arr);
+            string copy = new string(arr);
+            string half2 = copy.Substring(0, copy.Length / 2);
+
+            return half1.Equals(half2);
+        }
     }
 }
