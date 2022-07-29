@@ -1,0 +1,8 @@
+C:\Users\a875701\OneDrive - Atos\Desktop\Proyects\ProramacionAvanzada\ProramacionAvanzada\bin\Debug\ProramacionAvanzada.exe.config
+C:\Users\a875701\OneDrive - Atos\Desktop\Proyects\ProramacionAvanzada\ProramacionAvanzada\bin\Debug\ProramacionAvanzada.exe
+C:\Users\a875701\OneDrive - Atos\Desktop\Proyects\ProramacionAvanzada\ProramacionAvanzada\bin\Debug\ProramacionAvanzada.pdb
+C:\Users\a875701\OneDrive - Atos\Desktop\Proyects\ProramacionAvanzada\ProramacionAvanzada\obj\Debug\ProramacionAvanzada.csproj.AssemblyReference.cache
+C:\Users\a875701\OneDrive - Atos\Desktop\Proyects\ProramacionAvanzada\ProramacionAvanzada\obj\Debug\ProramacionAvanzada.csproj.SuggestedBindingRedirects.cache
+C:\Users\a875701\OneDrive - Atos\Desktop\Proyects\ProramacionAvanzada\ProramacionAvanzada\obj\Debug\ProramacionAvanzada.csproj.CoreCompileInputs.cache
+C:\Users\a875701\OneDrive - Atos\Desktop\Proyects\ProramacionAvanzada\ProramacionAvanzada\obj\Debug\ProramacionAvanzada.exe
+C:\Users\a875701\OneDrive - Atos\Desktop\Proyects\ProramacionAvanzada\ProramacionAvanzada\obj\Debug\ProramacionAvanzada.pdb
